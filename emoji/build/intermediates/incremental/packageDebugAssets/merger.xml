@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/goshawk/Downloads/AndroidKeyboard-master/emoji/src/main/assets"/><source path="/Users/goshawk/Downloads/AndroidKeyboard-master/emoji/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/goshawk/Downloads/AndroidKeyboard-master/emoji/src/debug/assets"/></dataSet></merger>
